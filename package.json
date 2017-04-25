@@ -1,6 +1,6 @@
 {
     "author": "kai zhu <kaizhu256@gmail.com>",
-    "description": "#### test coverage for  [clappr (v0.2.65)](https://github.com/clappr/clappr)  [![npm package](https://img.shields.io/npm/v/npmtest-clappr.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-clappr) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-clappr.svg)](https://travis-ci.org/npmtest/node-npmtest-clappr)",
+    "description": "#### basic test coverage for  [clappr (v0.2.66)](https://github.com/clappr/clappr)  [![npm package](https://img.shields.io/npm/v/npmtest-clappr.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-clappr) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-clappr.svg)](https://travis-ci.org/npmtest/node-npmtest-clappr)",
     "devDependencies": {
         "clappr": "*",
         "electron-lite": "kaizhu256/node-electron-lite#alpha",
