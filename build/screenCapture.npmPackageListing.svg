@@ -1,174 +1,185 @@
-<svg height="2734" width="720" xmlns="http://www.w3.org/2000/svg">
-<rect height="2734" fill="#555" width="720"></rect>
+<svg height="2910" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="2910" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-18 04:52:12 +0000  5728805 bytes  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-18 04:52:12 +0000     2658 bytes  API.md</tspan>
-<tspan x="10" y="58">  2.  2017-04-18 04:52:12 +0000     1492 bytes  LICENSE</tspan>
-<tspan x="10" y="74">  3.  2017-04-18 04:52:12 +0000     4597 bytes  README.md</tspan>
+<tspan x="10" y="26">  0.  2017-04-25 09:58:50 +0000  2809210 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-25 09:58:50 +0000     2658 bytes  API.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-25 09:58:50 +0000     1492 bytes  LICENSE</tspan>
+<tspan x="10" y="74">  3.  2017-04-25 09:58:50 +0000     4597 bytes  README.md</tspan>
 <tspan x="10" y="90">sh: 1: Syntax error: "(" unexpected</tspan>
-<tspan x="10" y="106">  4.  2017-04-18 04:52:12 +0000     2332 bytes  bower.json</tspan>
+<tspan x="10" y="106">  4.  2017-04-25 09:58:50 +0000     2378 bytes  bower.json</tspan>
 <tspan x="10" y="122">sh: 1: Syntax error: "(" unexpected</tspan>
 <tspan x="10" y="138">sh: 1: Syntax error: "(" unexpected</tspan>
-<tspan x="10" y="154">  5.  2017-04-18 04:52:12 +0000     2332 bytes  coverage/Chrome 55.0.2883 (Mac OS X 10.12.1)/lco\</tspan>
+<tspan x="10" y="154">  5.  2017-04-25 09:58:50 +0000     2378 bytes  coverage/Chrome 55.0.2883 (Mac OS X 10.12.1)/lco\</tspan>
 <tspan x="10" y="170">v.info</tspan>
 <tspan x="10" y="186">sh: 1: Syntax error: "(" unexpected</tspan>
 <tspan x="10" y="202">sh: 1: Syntax error: "(" unexpected</tspan>
-<tspan x="10" y="218">  6.  2017-04-18 04:52:12 +0000     2332 bytes  coverage/Firefox 50.0.0 (Mac OS X 10.12.0)/lcov.\</tspan>
-<tspan x="10" y="234">info</tspan>
+<tspan x="10" y="218">  6.  2017-04-25 09:58:50 +0000     2378 bytes  coverage/Chrome 57.0.2987 (Mac OS X 10.12.3)/lco\</tspan>
+<tspan x="10" y="234">v.info</tspan>
 <tspan x="10" y="250">sh: 1: Syntax error: "(" unexpected</tspan>
-<tspan x="10" y="266">  7.  2017-04-18 04:52:12 +0000     2332 bytes  coverage/Firefox 51.0.0 (Mac OS X 10.12.0)/lcov.\</tspan>
-<tspan x="10" y="282">info</tspan>
-<tspan x="10" y="298">  8.  2017-04-18 04:52:12 +0000    32652 bytes  dist/38861cba61c66739c1452c3a71e39852.ttf</tspan>
-<tspan x="10" y="314">  9.  2017-04-18 04:52:12 +0000     3204 bytes  dist/4b76590b32dab62bc95c1b7951efae78.swf</tspan>
-<tspan x="10" y="330"> 10.  2017-04-18 04:52:12 +0000    63602 bytes  dist/809981e5b09d5336c45d72d0869ada2a.swf</tspan>
-<tspan x="10" y="346"> 11.  2017-04-18 04:52:12 +0000      326 bytes  dist/a8c874b93b3d848f39a71260c57e3863.cur</tspan>
-<tspan x="10" y="362"> 12.  2017-04-18 04:52:12 +0000  1278111 bytes  dist/clappr.js</tspan>
-<tspan x="10" y="378"> 13.  2017-04-18 04:52:12 +0000   480953 bytes  dist/clappr.min.js</tspan>
-<tspan x="10" y="394"> 14.  2017-04-18 04:52:12 +0000  3103390 bytes  dist/clappr.min.js.map</tspan>
-<tspan x="10" y="410"> 15.  2017-04-18 04:52:12 +0000      978 bytes  doc/API_EVENTS.md</tspan>
-<tspan x="10" y="426"> 16.  2017-04-18 04:52:12 +0000      979 bytes  doc/BEFORE_OPEN_AN_ISSUE.md</tspan>
-<tspan x="10" y="442"> 17.  2017-04-18 04:52:12 +0000     7952 bytes  doc/BUILTIN_PLUGINS.md</tspan>
-<tspan x="10" y="458"> 18.  2017-04-18 04:52:12 +0000      323 bytes  doc/CONTRIBUTING.md</tspan>
-<tspan x="10" y="474"> 19.  2017-04-18 04:52:12 +0000      589 bytes  doc/DOCUMENTATION.md</tspan>
-<tspan x="10" y="490"> 20.  2017-04-18 04:52:12 +0000     1515 bytes  doc/EXTERNAL_PLUGINS.md</tspan>
-<tspan x="10" y="506"> 21.  2017-04-18 04:52:12 +0000     1756 bytes  doc/INSTALLING.md</tspan>
-<tspan x="10" y="522"> 22.  2017-04-18 04:52:12 +0000     1528 bytes  doc/SUPPORTED_FORMATS.md</tspan>
-<tspan x="10" y="538"> 23.  2017-04-18 04:52:12 +0000     1577 bytes  doc/TROUBLESHOOTING.md</tspan>
-<tspan x="10" y="554"> 24.  2017-04-18 04:52:12 +0000    12103 bytes  images/bandwitdh.jpg</tspan>
-<tspan x="10" y="570"> 25.  2017-04-18 04:52:12 +0000     6176 bytes  images/chromecast.jpg</tspan>
-<tspan x="10" y="586"> 26.  2017-04-18 04:52:12 +0000     8295 bytes  images/dash.jpg</tspan>
-<tspan x="10" y="602"> 27.  2017-04-18 04:52:12 +0000    10590 bytes  images/level-selector.jpg</tspan>
-<tspan x="10" y="618"> 28.  2017-04-18 04:52:12 +0000     9078 bytes  images/markers.jpg</tspan>
-<tspan x="10" y="634"> 29.  2017-04-18 04:52:12 +0000     9128 bytes  images/playback-rate-plugin.jpg</tspan>
-<tspan x="10" y="650"> 30.  2017-04-18 04:52:12 +0000    13398 bytes  images/stats.jpg</tspan>
-<tspan x="10" y="666"> 31.  2017-04-18 04:52:12 +0000     9347 bytes  images/thumbnails.jpg</tspan>
-<tspan x="10" y="682"> 32.  2017-04-18 04:52:12 +0000     8027 bytes  images/youtube.jpg</tspan>
-<tspan x="10" y="698"> 33.  2017-04-18 04:52:12 +0000      487 bytes  issue_template.md</tspan>
-<tspan x="10" y="714"> 34.  2017-04-18 04:52:12 +0000     4766 bytes  package.json</tspan>
-<tspan x="10" y="730"> 35.  2017-04-18 04:52:12 +0000      774 bytes  src/base/base_object.js</tspan>
-<tspan x="10" y="746"> 36.  2017-04-18 04:52:12 +0000      793 bytes  src/base/container_plugin.js</tspan>
-<tspan x="10" y="762"> 37.  2017-04-18 04:52:12 +0000      660 bytes  src/base/core_plugin.js</tspan>
-<tspan x="10" y="778"> 38.  2017-04-18 04:52:12 +0000    19321 bytes  src/base/events.js</tspan>
-<tspan x="10" y="794"> 39.  2017-04-18 04:52:12 +0000     5001 bytes  src/base/playback.js</tspan>
-<tspan x="10" y="810"> 40.  2017-04-18 04:52:12 +0000      261 bytes  src/base/scss/_fontsmoothing.scss</tspan>
-<tspan x="10" y="826"> 41.  2017-04-18 04:52:12 +0000      205 bytes  src/base/scss/_noselect.scss</tspan>
-<tspan x="10" y="842"> 42.  2017-04-18 04:52:12 +0000     3277 bytes  src/base/scss/_reset.scss</tspan>
-<tspan x="10" y="858"> 43.  2017-04-18 04:52:12 +0000      431 bytes  src/base/styler.js</tspan>
-<tspan x="10" y="874"> 44.  2017-04-18 04:52:12 +0000     3413 bytes  src/base/template.js</tspan>
-<tspan x="10" y="890"> 45.  2017-04-18 04:52:12 +0000      973 bytes  src/base/ui_container_plugin.js</tspan>
-<tspan x="10" y="906"> 46.  2017-04-18 04:52:12 +0000      715 bytes  src/base/ui_core_plugin.js</tspan>
-<tspan x="10" y="922"> 47.  2017-04-18 04:52:12 +0000     5080 bytes  src/base/ui_object.js</tspan>
-<tspan x="10" y="938"> 48.  2017-04-18 04:52:12 +0000     6714 bytes  src/base/utils.js</tspan>
-<tspan x="10" y="954"> 49.  2017-04-18 04:52:12 +0000     2607 bytes  src/components/browser.js</tspan>
-<tspan x="10" y="970"> 50.  2017-04-18 04:52:12 +0000    10395 bytes  src/components/container/container.js</tspan>
-<tspan x="10" y="986"> 51.  2017-04-18 04:52:12 +0000       40 bytes  src/components/container/index.js</tspan>
-<tspan x="10" y="1002"> 52.  2017-04-18 04:52:12 +0000      265 bytes  src/components/container/public/style.scss</tspan>
-<tspan x="10" y="1018"> 53.  2017-04-18 04:52:12 +0000     2188 bytes  src/components/container_factory/container_facto\</tspan>
-<tspan x="10" y="1034">ry.js</tspan>
-<tspan x="10" y="1050"> 54.  2017-04-18 04:52:12 +0000       48 bytes  src/components/container_factory/index.js</tspan>
-<tspan x="10" y="1066"> 55.  2017-04-18 04:52:12 +0000    10505 bytes  src/components/core/core.js</tspan>
-<tspan x="10" y="1082"> 56.  2017-04-18 04:52:12 +0000       35 bytes  src/components/core/index.js</tspan>
-<tspan x="10" y="1098"> 57.  2017-04-18 04:52:12 +0000    32652 bytes  src/components/core/public/Roboto.ttf</tspan>
-<tspan x="10" y="1114"> 58.  2017-04-18 04:52:12 +0000      990 bytes  src/components/core/public/style.scss</tspan>
-<tspan x="10" y="1130"> 59.  2017-04-18 04:52:12 +0000     1612 bytes  src/components/core_factory/core_factory.js</tspan>
-<tspan x="10" y="1146"> 60.  2017-04-18 04:52:12 +0000       43 bytes  src/components/core_factory/index.js</tspan>
-<tspan x="10" y="1162"> 61.  2017-04-18 04:52:12 +0000       37 bytes  src/components/loader/index.js</tspan>
-<tspan x="10" y="1178"> 62.  2017-04-18 04:52:12 +0000     4408 bytes  src/components/loader/loader.js</tspan>
-<tspan x="10" y="1194"> 63.  2017-04-18 04:52:12 +0000       44 bytes  src/components/media_control/index.js</tspan>
-<tspan x="10" y="1210"> 64.  2017-04-18 04:52:12 +0000    23305 bytes  src/components/media_control/media_control.js</tspan>
-<tspan x="10" y="1226"> 65.  2017-04-18 04:52:12 +0000      326 bytes  src/components/media_control/public/closed-hand.\</tspan>
-<tspan x="10" y="1242">cur</tspan>
-<tspan x="10" y="1258"> 66.  2017-04-18 04:52:12 +0000     2765 bytes  src/components/media_control/public/media-contro\</tspan>
-<tspan x="10" y="1274">l.html</tspan>
-<tspan x="10" y="1290"> 67.  2017-04-18 04:52:12 +0000     9123 bytes  src/components/media_control/public/media-contro\</tspan>
-<tspan x="10" y="1306">l.scss</tspan>
-<tspan x="10" y="1322"> 68.  2017-04-18 04:52:12 +0000      856 bytes  src/components/mediator.js</tspan>
-<tspan x="10" y="1338"> 69.  2017-04-18 04:52:12 +0000    17726 bytes  src/components/player.js</tspan>
-<tspan x="10" y="1354"> 70.  2017-04-18 04:52:12 +0000      502 bytes  src/components/player_info.js</tspan>
-<tspan x="10" y="1370"> 71.  2017-04-18 04:52:12 +0000      156 bytes  src/icons/01-play.svg</tspan>
-<tspan x="10" y="1386"> 72.  2017-04-18 04:52:12 +0000      230 bytes  src/icons/02-pause.svg</tspan>
-<tspan x="10" y="1402"> 73.  2017-04-18 04:52:12 +0000      190 bytes  src/icons/03-stop.svg</tspan>
-<tspan x="10" y="1418"> 74.  2017-04-18 04:52:12 +0000      268 bytes  src/icons/04-volume.svg</tspan>
-<tspan x="10" y="1434"> 75.  2017-04-18 04:52:12 +0000      407 bytes  src/icons/05-mute.svg</tspan>
-<tspan x="10" y="1450"> 76.  2017-04-18 04:52:12 +0000      229 bytes  src/icons/06-expand.svg</tspan>
-<tspan x="10" y="1466"> 77.  2017-04-18 04:52:12 +0000      244 bytes  src/icons/07-shrink.svg</tspan>
-<tspan x="10" y="1482"> 78.  2017-04-18 04:52:12 +0000      384 bytes  src/icons/08-hd.svg</tspan>
-<tspan x="10" y="1498"> 79.  2017-04-18 04:52:12 +0000     1850 bytes  src/main.js</tspan>
-<tspan x="10" y="1514"> 80.  2017-04-18 04:52:12 +0000     1785 bytes  src/playbacks/base_flash_playback/base_flash_pla\</tspan>
-<tspan x="10" y="1530">yback.js</tspan>
-<tspan x="10" y="1546"> 81.  2017-04-18 04:52:12 +0000       48 bytes  src/playbacks/base_flash_playback/index.js</tspan>
-<tspan x="10" y="1562"> 82.  2017-04-18 04:52:12 +0000      904 bytes  src/playbacks/base_flash_playback/public/flash.h\</tspan>
-<tspan x="10" y="1578">tml</tspan>
-<tspan x="10" y="1594"> 83.  2017-04-18 04:52:12 +0000      164 bytes  src/playbacks/base_flash_playback/public/flash.s\</tspan>
-<tspan x="10" y="1610">css</tspan>
-<tspan x="10" y="1626"> 84.  2017-04-18 04:52:12 +0000     8991 bytes  src/playbacks/flash/Player.as</tspan>
-<tspan x="10" y="1642"> 85.  2017-04-18 04:52:12 +0000      210 bytes  src/playbacks/flash/build_player.sh</tspan>
-<tspan x="10" y="1658"> 86.  2017-04-18 04:52:12 +0000     7193 bytes  src/playbacks/flash/flash.js</tspan>
-<tspan x="10" y="1674"> 87.  2017-04-18 04:52:12 +0000       36 bytes  src/playbacks/flash/index.js</tspan>
-<tspan x="10" y="1690"> 88.  2017-04-18 04:52:12 +0000     3204 bytes  src/playbacks/flash/public/Player.swf</tspan>
-<tspan x="10" y="1706"> 89.  2017-04-18 04:52:12 +0000    25869 bytes  src/playbacks/flashls/flashls.js</tspan>
-<tspan x="10" y="1722"> 90.  2017-04-18 04:52:12 +0000     1734 bytes  src/playbacks/flashls/flashls_events.js</tspan>
-<tspan x="10" y="1738"> 91.  2017-04-18 04:52:12 +0000       38 bytes  src/playbacks/flashls/index.js</tspan>
-<tspan x="10" y="1754"> 92.  2017-04-18 04:52:12 +0000    63602 bytes  src/playbacks/flashls/public/HLSPlayer.swf</tspan>
-<tspan x="10" y="1770"> 93.  2017-04-18 04:52:12 +0000    20429 bytes  src/playbacks/hls/hls.js</tspan>
-<tspan x="10" y="1786"> 94.  2017-04-18 04:52:12 +0000       34 bytes  src/playbacks/hls/index.js</tspan>
-<tspan x="10" y="1802"> 95.  2017-04-18 04:52:12 +0000     1113 bytes  src/playbacks/html5_audio/html5_audio.js</tspan>
-<tspan x="10" y="1818"> 96.  2017-04-18 04:52:12 +0000       42 bytes  src/playbacks/html5_audio/index.js</tspan>
-<tspan x="10" y="1834"> 97.  2017-04-18 04:52:12 +0000    13082 bytes  src/playbacks/html5_video/html5_video.js</tspan>
-<tspan x="10" y="1850"> 98.  2017-04-18 04:52:12 +0000       42 bytes  src/playbacks/html5_video/index.js</tspan>
-<tspan x="10" y="1866"> 99.  2017-04-18 04:52:12 +0000       94 bytes  src/playbacks/html5_video/public/style.scss</tspan>
-<tspan x="10" y="1882">100.  2017-04-18 04:52:12 +0000     1262 bytes  src/playbacks/html_img/html_img.js</tspan>
-<tspan x="10" y="1898">101.  2017-04-18 04:52:12 +0000       39 bytes  src/playbacks/html_img/index.js</tspan>
-<tspan x="10" y="1914">102.  2017-04-18 04:52:12 +0000       56 bytes  src/playbacks/html_img/public/style.scss</tspan>
-<tspan x="10" y="1930">103.  2017-04-18 04:52:12 +0000       36 bytes  src/playbacks/no_op/index.js</tspan>
-<tspan x="10" y="1946">104.  2017-04-18 04:52:12 +0000     2676 bytes  src/playbacks/no_op/no_op.js</tspan>
-<tspan x="10" y="1962">105.  2017-04-18 04:52:12 +0000       70 bytes  src/playbacks/no_op/public/error.html</tspan>
-<tspan x="10" y="1978">106.  2017-04-18 04:52:12 +0000      484 bytes  src/playbacks/no_op/public/style.scss</tspan>
-<tspan x="10" y="1994">107.  2017-04-18 04:52:12 +0000     1110 bytes  src/plugins/click_to_pause/click_to_pause.js</tspan>
-<tspan x="10" y="2010">108.  2017-04-18 04:52:12 +0000       45 bytes  src/plugins/click_to_pause/index.js</tspan>
-<tspan x="10" y="2026">109.  2017-04-18 04:52:12 +0000     2804 bytes  src/plugins/dvr_controls/dvr_controls.js</tspan>
-<tspan x="10" y="2042">110.  2017-04-18 04:52:12 +0000       43 bytes  src/plugins/dvr_controls/index.js</tspan>
-<tspan x="10" y="2058">111.  2017-04-18 04:52:12 +0000     2115 bytes  src/plugins/dvr_controls/public/dvr_controls.scs\</tspan>
-<tspan x="10" y="2074">s</tspan>
-<tspan x="10" y="2090">112.  2017-04-18 04:52:12 +0000      141 bytes  src/plugins/dvr_controls/public/index.html</tspan>
-<tspan x="10" y="2106">113.  2017-04-18 04:52:12 +0000      849 bytes  src/plugins/end_video.js</tspan>
-<tspan x="10" y="2122">114.  2017-04-18 04:52:12 +0000     2626 bytes  src/plugins/favicon/favicon.js</tspan>
-<tspan x="10" y="2138">115.  2017-04-18 04:52:12 +0000       41 bytes  src/plugins/favicon/index.js</tspan>
-<tspan x="10" y="2154">116.  2017-04-18 04:52:12 +0000     4157 bytes  src/plugins/google_analytics/google_analytics.js</tspan>
-<tspan x="10" y="2170">117.  2017-04-18 04:52:12 +0000       47 bytes  src/plugins/google_analytics/index.js</tspan>
-<tspan x="10" y="2186">118.  2017-04-18 04:52:12 +0000       34 bytes  src/plugins/log/index.js</tspan>
-<tspan x="10" y="2202">119.  2017-04-18 04:52:12 +0000     3022 bytes  src/plugins/log/log.js</tspan>
-<tspan x="10" y="2218">120.  2017-04-18 04:52:12 +0000       37 bytes  src/plugins/poster/index.js</tspan>
-<tspan x="10" y="2234">121.  2017-04-18 04:52:12 +0000     4429 bytes  src/plugins/poster/poster.js</tspan>
-<tspan x="10" y="2250">122.  2017-04-18 04:52:12 +0000    22353 bytes  src/plugins/poster/public/default.png</tspan>
-<tspan x="10" y="2266">123.  2017-04-18 04:52:12 +0000       45 bytes  src/plugins/poster/public/poster.html</tspan>
-<tspan x="10" y="2282">124.  2017-04-18 04:52:12 +0000      657 bytes  src/plugins/poster/public/poster.scss</tspan>
-<tspan x="10" y="2298">125.  2017-04-18 04:52:12 +0000       40 bytes  src/plugins/seek_time/index.js</tspan>
-<tspan x="10" y="2314">126.  2017-04-18 04:52:12 +0000       57 bytes  src/plugins/seek_time/public/seek_time.html</tspan>
-<tspan x="10" y="2330">127.  2017-04-18 04:52:12 +0000      698 bytes  src/plugins/seek_time/public/seek_time.scss</tspan>
-<tspan x="10" y="2346">128.  2017-04-18 04:52:12 +0000     5621 bytes  src/plugins/seek_time/seek_time.js</tspan>
-<tspan x="10" y="2362">129.  2017-04-18 04:52:12 +0000      627 bytes  src/plugins/sources.js</tspan>
-<tspan x="10" y="2378">130.  2017-04-18 04:52:12 +0000       51 bytes  src/plugins/spinner_three_bounce/index.js</tspan>
-<tspan x="10" y="2394">131.  2017-04-18 04:52:12 +0000       73 bytes  src/plugins/spinner_three_bounce/public/spinner.\</tspan>
-<tspan x="10" y="2410">html</tspan>
-<tspan x="10" y="2426">132.  2017-04-18 04:52:12 +0000      857 bytes  src/plugins/spinner_three_bounce/public/spinner.\</tspan>
-<tspan x="10" y="2442">scss</tspan>
-<tspan x="10" y="2458">133.  2017-04-18 04:52:12 +0000     1838 bytes  src/plugins/spinner_three_bounce/spinner_three_b\</tspan>
-<tspan x="10" y="2474">ounce.js</tspan>
-<tspan x="10" y="2490">134.  2017-04-18 04:52:12 +0000       36 bytes  src/plugins/stats/index.js</tspan>
-<tspan x="10" y="2506">135.  2017-04-18 04:52:12 +0000     3207 bytes  src/plugins/stats/stats.js</tspan>
-<tspan x="10" y="2522">136.  2017-04-18 04:52:12 +0000     2065 bytes  src/plugins/strings.js</tspan>
-<tspan x="10" y="2538">137.  2017-04-18 04:52:12 +0000       40 bytes  src/plugins/watermark/index.js</tspan>
-<tspan x="10" y="2554">138.  2017-04-18 04:52:12 +0000      239 bytes  src/plugins/watermark/public/watermark.html</tspan>
-<tspan x="10" y="2570">139.  2017-04-18 04:52:12 +0000     5169 bytes  src/plugins/watermark/public/watermark.png</tspan>
-<tspan x="10" y="2586">140.  2017-04-18 04:52:12 +0000      487 bytes  src/plugins/watermark/public/watermark.scss</tspan>
-<tspan x="10" y="2602">141.  2017-04-18 04:52:12 +0000     1624 bytes  src/plugins/watermark/watermark.js</tspan>
-<tspan x="10" y="2618">142.  2017-04-18 04:52:12 +0000       49 bytes  src/vendor/index.js</tspan>
-<tspan x="10" y="2634">143.  2017-04-18 04:52:12 +0000     7715 bytes  src/vendor/kibo.js</tspan>
-<tspan x="10" y="2650">144.  2017-04-18 04:52:12 +0000      808 bytes  upload.js</tspan>
-<tspan x="10" y="2666">145.  2017-04-18 04:52:12 +0000     1088 bytes  webpack-base-config.js</tspan>
-<tspan x="10" y="2682">146.  2017-04-18 04:52:12 +0000      717 bytes  webpack.config.js</tspan>
-<tspan x="10" y="2698">147.  2017-04-18 04:52:12 +0000   236556 bytes  yarn.lock</tspan>
-<tspan x="10" y="2714">148.  2017-04-18 04:52:12 +0000      398 bytes  yuidoc.json</tspan>
+<tspan x="10" y="266">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="282">  7.  2017-04-25 09:58:50 +0000     2378 bytes  coverage/Chrome 57.0.2987 (Mac OS X 10.12.4)/lco\</tspan>
+<tspan x="10" y="298">v.info</tspan>
+<tspan x="10" y="314">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="330">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="346">  8.  2017-04-25 09:58:50 +0000     2378 bytes  coverage/Firefox 50.0.0 (Mac OS X 10.12.0)/lcov.\</tspan>
+<tspan x="10" y="362">info</tspan>
+<tspan x="10" y="378">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="394">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="410">  9.  2017-04-25 09:58:50 +0000     2378 bytes  coverage/Firefox 51.0.0 (Mac OS X 10.12.0)/lcov.\</tspan>
+<tspan x="10" y="426">info</tspan>
+<tspan x="10" y="442">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="458"> 10.  2017-04-25 09:58:50 +0000     2378 bytes  coverage/Firefox 52.0.0 (Mac OS X 10.12.0)/lcov.\</tspan>
+<tspan x="10" y="474">info</tspan>
+<tspan x="10" y="490"> 11.  2017-04-25 09:58:50 +0000    32652 bytes  dist/38861cba61c66739c1452c3a71e39852.ttf</tspan>
+<tspan x="10" y="506"> 12.  2017-04-25 09:58:50 +0000     3204 bytes  dist/4b76590b32dab62bc95c1b7951efae78.swf</tspan>
+<tspan x="10" y="522"> 13.  2017-04-25 09:58:50 +0000    63602 bytes  dist/809981e5b09d5336c45d72d0869ada2a.swf</tspan>
+<tspan x="10" y="538"> 14.  2017-04-25 09:58:50 +0000      326 bytes  dist/a8c874b93b3d848f39a71260c57e3863.cur</tspan>
+<tspan x="10" y="554"> 15.  2017-04-25 09:58:50 +0000  1389798 bytes  dist/clappr.js</tspan>
+<tspan x="10" y="570"> 16.  2017-04-25 09:58:50 +0000   529774 bytes  dist/clappr.min.js</tspan>
+<tspan x="10" y="586"> 17.  2017-04-25 09:58:50 +0000      978 bytes  doc/API_EVENTS.md</tspan>
+<tspan x="10" y="602"> 18.  2017-04-25 09:58:50 +0000      979 bytes  doc/BEFORE_OPEN_AN_ISSUE.md</tspan>
+<tspan x="10" y="618"> 19.  2017-04-25 09:58:50 +0000     8041 bytes  doc/BUILTIN_PLUGINS.md</tspan>
+<tspan x="10" y="634"> 20.  2017-04-25 09:58:50 +0000      323 bytes  doc/CONTRIBUTING.md</tspan>
+<tspan x="10" y="650"> 21.  2017-04-25 09:58:50 +0000      589 bytes  doc/DOCUMENTATION.md</tspan>
+<tspan x="10" y="666"> 22.  2017-04-25 09:58:50 +0000     1657 bytes  doc/EXTERNAL_PLUGINS.md</tspan>
+<tspan x="10" y="682"> 23.  2017-04-25 09:58:50 +0000     1756 bytes  doc/INSTALLING.md</tspan>
+<tspan x="10" y="698"> 24.  2017-04-25 09:58:50 +0000     1528 bytes  doc/SUPPORTED_FORMATS.md</tspan>
+<tspan x="10" y="714"> 25.  2017-04-25 09:58:50 +0000     1577 bytes  doc/TROUBLESHOOTING.md</tspan>
+<tspan x="10" y="730"> 26.  2017-04-25 09:58:50 +0000    12103 bytes  images/bandwitdh.jpg</tspan>
+<tspan x="10" y="746"> 27.  2017-04-25 09:58:50 +0000     6176 bytes  images/chromecast.jpg</tspan>
+<tspan x="10" y="762"> 28.  2017-04-25 09:58:50 +0000     8295 bytes  images/dash.jpg</tspan>
+<tspan x="10" y="778"> 29.  2017-04-25 09:58:50 +0000    10590 bytes  images/level-selector.jpg</tspan>
+<tspan x="10" y="794"> 30.  2017-04-25 09:58:50 +0000     9078 bytes  images/markers.jpg</tspan>
+<tspan x="10" y="810"> 31.  2017-04-25 09:58:50 +0000     9128 bytes  images/playback-rate-plugin.jpg</tspan>
+<tspan x="10" y="826"> 32.  2017-04-25 09:58:50 +0000    13398 bytes  images/stats.jpg</tspan>
+<tspan x="10" y="842"> 33.  2017-04-25 09:58:50 +0000     9347 bytes  images/thumbnails.jpg</tspan>
+<tspan x="10" y="858"> 34.  2017-04-25 09:58:50 +0000     8027 bytes  images/youtube.jpg</tspan>
+<tspan x="10" y="874"> 35.  2017-04-25 09:58:50 +0000      487 bytes  issue_template.md</tspan>
+<tspan x="10" y="890"> 36.  2017-04-25 09:58:50 +0000     4745 bytes  package.json</tspan>
+<tspan x="10" y="906"> 37.  2017-04-25 09:58:50 +0000      774 bytes  src/base/base_object.js</tspan>
+<tspan x="10" y="922"> 38.  2017-04-25 09:58:50 +0000      793 bytes  src/base/container_plugin.js</tspan>
+<tspan x="10" y="938"> 39.  2017-04-25 09:58:50 +0000      660 bytes  src/base/core_plugin.js</tspan>
+<tspan x="10" y="954"> 40.  2017-04-25 09:58:50 +0000    19321 bytes  src/base/events.js</tspan>
+<tspan x="10" y="970"> 41.  2017-04-25 09:58:50 +0000     5104 bytes  src/base/playback.js</tspan>
+<tspan x="10" y="986"> 42.  2017-04-25 09:58:50 +0000      261 bytes  src/base/scss/_fontsmoothing.scss</tspan>
+<tspan x="10" y="1002"> 43.  2017-04-25 09:58:50 +0000      205 bytes  src/base/scss/_noselect.scss</tspan>
+<tspan x="10" y="1018"> 44.  2017-04-25 09:58:50 +0000     3277 bytes  src/base/scss/_reset.scss</tspan>
+<tspan x="10" y="1034"> 45.  2017-04-25 09:58:50 +0000      431 bytes  src/base/styler.js</tspan>
+<tspan x="10" y="1050"> 46.  2017-04-25 09:58:50 +0000     3413 bytes  src/base/template.js</tspan>
+<tspan x="10" y="1066"> 47.  2017-04-25 09:58:50 +0000      973 bytes  src/base/ui_container_plugin.js</tspan>
+<tspan x="10" y="1082"> 48.  2017-04-25 09:58:50 +0000      715 bytes  src/base/ui_core_plugin.js</tspan>
+<tspan x="10" y="1098"> 49.  2017-04-25 09:58:50 +0000     5098 bytes  src/base/ui_object.js</tspan>
+<tspan x="10" y="1114"> 50.  2017-04-25 09:58:50 +0000     7423 bytes  src/base/utils.js</tspan>
+<tspan x="10" y="1130"> 51.  2017-04-25 09:58:50 +0000     2645 bytes  src/components/browser.js</tspan>
+<tspan x="10" y="1146"> 52.  2017-04-25 09:58:50 +0000    10401 bytes  src/components/container/container.js</tspan>
+<tspan x="10" y="1162"> 53.  2017-04-25 09:58:50 +0000       40 bytes  src/components/container/index.js</tspan>
+<tspan x="10" y="1178"> 54.  2017-04-25 09:58:50 +0000      265 bytes  src/components/container/public/style.scss</tspan>
+<tspan x="10" y="1194"> 55.  2017-04-25 09:58:50 +0000     2188 bytes  src/components/container_factory/container_facto\</tspan>
+<tspan x="10" y="1210">ry.js</tspan>
+<tspan x="10" y="1226"> 56.  2017-04-25 09:58:50 +0000       48 bytes  src/components/container_factory/index.js</tspan>
+<tspan x="10" y="1242"> 57.  2017-04-25 09:58:50 +0000    10845 bytes  src/components/core/core.js</tspan>
+<tspan x="10" y="1258"> 58.  2017-04-25 09:58:50 +0000       35 bytes  src/components/core/index.js</tspan>
+<tspan x="10" y="1274"> 59.  2017-04-25 09:58:50 +0000    32652 bytes  src/components/core/public/Roboto.ttf</tspan>
+<tspan x="10" y="1290"> 60.  2017-04-25 09:58:50 +0000      990 bytes  src/components/core/public/style.scss</tspan>
+<tspan x="10" y="1306"> 61.  2017-04-25 09:58:50 +0000     1612 bytes  src/components/core_factory/core_factory.js</tspan>
+<tspan x="10" y="1322"> 62.  2017-04-25 09:58:50 +0000       43 bytes  src/components/core_factory/index.js</tspan>
+<tspan x="10" y="1338"> 63.  2017-04-25 09:58:50 +0000       37 bytes  src/components/loader/index.js</tspan>
+<tspan x="10" y="1354"> 64.  2017-04-25 09:58:50 +0000     4408 bytes  src/components/loader/loader.js</tspan>
+<tspan x="10" y="1370"> 65.  2017-04-25 09:58:50 +0000       44 bytes  src/components/media_control/index.js</tspan>
+<tspan x="10" y="1386"> 66.  2017-04-25 09:58:50 +0000    23935 bytes  src/components/media_control/media_control.js</tspan>
+<tspan x="10" y="1402"> 67.  2017-04-25 09:58:50 +0000      326 bytes  src/components/media_control/public/closed-hand.\</tspan>
+<tspan x="10" y="1418">cur</tspan>
+<tspan x="10" y="1434"> 68.  2017-04-25 09:58:50 +0000     2765 bytes  src/components/media_control/public/media-contro\</tspan>
+<tspan x="10" y="1450">l.html</tspan>
+<tspan x="10" y="1466"> 69.  2017-04-25 09:58:50 +0000     9123 bytes  src/components/media_control/public/media-contro\</tspan>
+<tspan x="10" y="1482">l.scss</tspan>
+<tspan x="10" y="1498"> 70.  2017-04-25 09:58:50 +0000      856 bytes  src/components/mediator.js</tspan>
+<tspan x="10" y="1514"> 71.  2017-04-25 09:58:50 +0000    17973 bytes  src/components/player.js</tspan>
+<tspan x="10" y="1530"> 72.  2017-04-25 09:58:50 +0000      502 bytes  src/components/player_info.js</tspan>
+<tspan x="10" y="1546"> 73.  2017-04-25 09:58:50 +0000      156 bytes  src/icons/01-play.svg</tspan>
+<tspan x="10" y="1562"> 74.  2017-04-25 09:58:50 +0000      230 bytes  src/icons/02-pause.svg</tspan>
+<tspan x="10" y="1578"> 75.  2017-04-25 09:58:50 +0000      190 bytes  src/icons/03-stop.svg</tspan>
+<tspan x="10" y="1594"> 76.  2017-04-25 09:58:50 +0000      268 bytes  src/icons/04-volume.svg</tspan>
+<tspan x="10" y="1610"> 77.  2017-04-25 09:58:50 +0000      407 bytes  src/icons/05-mute.svg</tspan>
+<tspan x="10" y="1626"> 78.  2017-04-25 09:58:50 +0000      229 bytes  src/icons/06-expand.svg</tspan>
+<tspan x="10" y="1642"> 79.  2017-04-25 09:58:50 +0000      244 bytes  src/icons/07-shrink.svg</tspan>
+<tspan x="10" y="1658"> 80.  2017-04-25 09:58:50 +0000      384 bytes  src/icons/08-hd.svg</tspan>
+<tspan x="10" y="1674"> 81.  2017-04-25 09:58:50 +0000     1850 bytes  src/main.js</tspan>
+<tspan x="10" y="1690"> 82.  2017-04-25 09:58:50 +0000     1785 bytes  src/playbacks/base_flash_playback/base_flash_pla\</tspan>
+<tspan x="10" y="1706">yback.js</tspan>
+<tspan x="10" y="1722"> 83.  2017-04-25 09:58:50 +0000       48 bytes  src/playbacks/base_flash_playback/index.js</tspan>
+<tspan x="10" y="1738"> 84.  2017-04-25 09:58:50 +0000      904 bytes  src/playbacks/base_flash_playback/public/flash.h\</tspan>
+<tspan x="10" y="1754">tml</tspan>
+<tspan x="10" y="1770"> 85.  2017-04-25 09:58:50 +0000      164 bytes  src/playbacks/base_flash_playback/public/flash.s\</tspan>
+<tspan x="10" y="1786">css</tspan>
+<tspan x="10" y="1802"> 86.  2017-04-25 09:58:50 +0000     8991 bytes  src/playbacks/flash/Player.as</tspan>
+<tspan x="10" y="1818"> 87.  2017-04-25 09:58:50 +0000      210 bytes  src/playbacks/flash/build_player.sh</tspan>
+<tspan x="10" y="1834"> 88.  2017-04-25 09:58:50 +0000     7193 bytes  src/playbacks/flash/flash.js</tspan>
+<tspan x="10" y="1850"> 89.  2017-04-25 09:58:50 +0000       36 bytes  src/playbacks/flash/index.js</tspan>
+<tspan x="10" y="1866"> 90.  2017-04-25 09:58:50 +0000     3204 bytes  src/playbacks/flash/public/Player.swf</tspan>
+<tspan x="10" y="1882"> 91.  2017-04-25 09:58:50 +0000    25869 bytes  src/playbacks/flashls/flashls.js</tspan>
+<tspan x="10" y="1898"> 92.  2017-04-25 09:58:50 +0000     1734 bytes  src/playbacks/flashls/flashls_events.js</tspan>
+<tspan x="10" y="1914"> 93.  2017-04-25 09:58:50 +0000       38 bytes  src/playbacks/flashls/index.js</tspan>
+<tspan x="10" y="1930"> 94.  2017-04-25 09:58:50 +0000    63602 bytes  src/playbacks/flashls/public/HLSPlayer.swf</tspan>
+<tspan x="10" y="1946"> 95.  2017-04-25 09:58:50 +0000    20408 bytes  src/playbacks/hls/hls.js</tspan>
+<tspan x="10" y="1962"> 96.  2017-04-25 09:58:50 +0000       34 bytes  src/playbacks/hls/index.js</tspan>
+<tspan x="10" y="1978"> 97.  2017-04-25 09:58:50 +0000     1113 bytes  src/playbacks/html5_audio/html5_audio.js</tspan>
+<tspan x="10" y="1994"> 98.  2017-04-25 09:58:50 +0000       42 bytes  src/playbacks/html5_audio/index.js</tspan>
+<tspan x="10" y="2010"> 99.  2017-04-25 09:58:50 +0000    13721 bytes  src/playbacks/html5_video/html5_video.js</tspan>
+<tspan x="10" y="2026">100.  2017-04-25 09:58:50 +0000       42 bytes  src/playbacks/html5_video/index.js</tspan>
+<tspan x="10" y="2042">101.  2017-04-25 09:58:50 +0000       94 bytes  src/playbacks/html5_video/public/style.scss</tspan>
+<tspan x="10" y="2058">102.  2017-04-25 09:58:50 +0000     1262 bytes  src/playbacks/html_img/html_img.js</tspan>
+<tspan x="10" y="2074">103.  2017-04-25 09:58:50 +0000       39 bytes  src/playbacks/html_img/index.js</tspan>
+<tspan x="10" y="2090">104.  2017-04-25 09:58:50 +0000       56 bytes  src/playbacks/html_img/public/style.scss</tspan>
+<tspan x="10" y="2106">105.  2017-04-25 09:58:50 +0000       36 bytes  src/playbacks/no_op/index.js</tspan>
+<tspan x="10" y="2122">106.  2017-04-25 09:58:50 +0000     2676 bytes  src/playbacks/no_op/no_op.js</tspan>
+<tspan x="10" y="2138">107.  2017-04-25 09:58:50 +0000       70 bytes  src/playbacks/no_op/public/error.html</tspan>
+<tspan x="10" y="2154">108.  2017-04-25 09:58:50 +0000      484 bytes  src/playbacks/no_op/public/style.scss</tspan>
+<tspan x="10" y="2170">109.  2017-04-25 09:58:50 +0000     1110 bytes  src/plugins/click_to_pause/click_to_pause.js</tspan>
+<tspan x="10" y="2186">110.  2017-04-25 09:58:50 +0000       45 bytes  src/plugins/click_to_pause/index.js</tspan>
+<tspan x="10" y="2202">111.  2017-04-25 09:58:50 +0000     2804 bytes  src/plugins/dvr_controls/dvr_controls.js</tspan>
+<tspan x="10" y="2218">112.  2017-04-25 09:58:50 +0000       43 bytes  src/plugins/dvr_controls/index.js</tspan>
+<tspan x="10" y="2234">113.  2017-04-25 09:58:50 +0000     2115 bytes  src/plugins/dvr_controls/public/dvr_controls.scs\</tspan>
+<tspan x="10" y="2250">s</tspan>
+<tspan x="10" y="2266">114.  2017-04-25 09:58:50 +0000      141 bytes  src/plugins/dvr_controls/public/index.html</tspan>
+<tspan x="10" y="2282">115.  2017-04-25 09:58:50 +0000      849 bytes  src/plugins/end_video.js</tspan>
+<tspan x="10" y="2298">116.  2017-04-25 09:58:50 +0000     2626 bytes  src/plugins/favicon/favicon.js</tspan>
+<tspan x="10" y="2314">117.  2017-04-25 09:58:50 +0000       41 bytes  src/plugins/favicon/index.js</tspan>
+<tspan x="10" y="2330">118.  2017-04-25 09:58:50 +0000     4157 bytes  src/plugins/google_analytics/google_analytics.js</tspan>
+<tspan x="10" y="2346">119.  2017-04-25 09:58:50 +0000       47 bytes  src/plugins/google_analytics/index.js</tspan>
+<tspan x="10" y="2362">120.  2017-04-25 09:58:50 +0000       34 bytes  src/plugins/log/index.js</tspan>
+<tspan x="10" y="2378">121.  2017-04-25 09:58:50 +0000     3022 bytes  src/plugins/log/log.js</tspan>
+<tspan x="10" y="2394">122.  2017-04-25 09:58:50 +0000       37 bytes  src/plugins/poster/index.js</tspan>
+<tspan x="10" y="2410">123.  2017-04-25 09:58:50 +0000     4429 bytes  src/plugins/poster/poster.js</tspan>
+<tspan x="10" y="2426">124.  2017-04-25 09:58:50 +0000    22353 bytes  src/plugins/poster/public/default.png</tspan>
+<tspan x="10" y="2442">125.  2017-04-25 09:58:50 +0000       45 bytes  src/plugins/poster/public/poster.html</tspan>
+<tspan x="10" y="2458">126.  2017-04-25 09:58:50 +0000      657 bytes  src/plugins/poster/public/poster.scss</tspan>
+<tspan x="10" y="2474">127.  2017-04-25 09:58:50 +0000       40 bytes  src/plugins/seek_time/index.js</tspan>
+<tspan x="10" y="2490">128.  2017-04-25 09:58:50 +0000       57 bytes  src/plugins/seek_time/public/seek_time.html</tspan>
+<tspan x="10" y="2506">129.  2017-04-25 09:58:50 +0000      698 bytes  src/plugins/seek_time/public/seek_time.scss</tspan>
+<tspan x="10" y="2522">130.  2017-04-25 09:58:50 +0000     5621 bytes  src/plugins/seek_time/seek_time.js</tspan>
+<tspan x="10" y="2538">131.  2017-04-25 09:58:50 +0000      627 bytes  src/plugins/sources.js</tspan>
+<tspan x="10" y="2554">132.  2017-04-25 09:58:50 +0000       51 bytes  src/plugins/spinner_three_bounce/index.js</tspan>
+<tspan x="10" y="2570">133.  2017-04-25 09:58:50 +0000       73 bytes  src/plugins/spinner_three_bounce/public/spinner.\</tspan>
+<tspan x="10" y="2586">html</tspan>
+<tspan x="10" y="2602">134.  2017-04-25 09:58:50 +0000      857 bytes  src/plugins/spinner_three_bounce/public/spinner.\</tspan>
+<tspan x="10" y="2618">scss</tspan>
+<tspan x="10" y="2634">135.  2017-04-25 09:58:50 +0000     1838 bytes  src/plugins/spinner_three_bounce/spinner_three_b\</tspan>
+<tspan x="10" y="2650">ounce.js</tspan>
+<tspan x="10" y="2666">136.  2017-04-25 09:58:50 +0000       36 bytes  src/plugins/stats/index.js</tspan>
+<tspan x="10" y="2682">137.  2017-04-25 09:58:50 +0000     3207 bytes  src/plugins/stats/stats.js</tspan>
+<tspan x="10" y="2698">138.  2017-04-25 09:58:50 +0000     2637 bytes  src/plugins/strings.js</tspan>
+<tspan x="10" y="2714">139.  2017-04-25 09:58:50 +0000       40 bytes  src/plugins/watermark/index.js</tspan>
+<tspan x="10" y="2730">140.  2017-04-25 09:58:50 +0000      239 bytes  src/plugins/watermark/public/watermark.html</tspan>
+<tspan x="10" y="2746">141.  2017-04-25 09:58:50 +0000     5169 bytes  src/plugins/watermark/public/watermark.png</tspan>
+<tspan x="10" y="2762">142.  2017-04-25 09:58:50 +0000      487 bytes  src/plugins/watermark/public/watermark.scss</tspan>
+<tspan x="10" y="2778">143.  2017-04-25 09:58:50 +0000     1624 bytes  src/plugins/watermark/watermark.js</tspan>
+<tspan x="10" y="2794">144.  2017-04-25 09:58:50 +0000       49 bytes  src/vendor/index.js</tspan>
+<tspan x="10" y="2810">145.  2017-04-25 09:58:50 +0000     7715 bytes  src/vendor/kibo.js</tspan>
+<tspan x="10" y="2826">146.  2017-04-25 09:58:50 +0000      808 bytes  upload.js</tspan>
+<tspan x="10" y="2842">147.  2017-04-25 09:58:50 +0000     1238 bytes  webpack-base-config.js</tspan>
+<tspan x="10" y="2858">148.  2017-04-25 09:58:50 +0000      888 bytes  webpack.config.js</tspan>
+<tspan x="10" y="2874">149.  2017-04-25 09:58:50 +0000   248713 bytes  yarn.lock</tspan>
+<tspan x="10" y="2890">150.  2017-04-25 09:58:50 +0000      398 bytes  yuidoc.json</tspan>
 </text>
 </svg>
